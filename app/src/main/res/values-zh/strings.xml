@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">青花瓷</string>
+    <string name="hellomoon_play">播放/暂停</string>
+    <string name="hellomoon_stop">停止</string>
+    <string name="hellomoon_description">你好！月球</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
